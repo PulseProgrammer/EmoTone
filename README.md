@@ -1,7 +1,7 @@
 # EmoTone
  By combining the realms of artificial intelligence and signal processing, we dive deep into the patterns and nuances of human emotions expressed through speech
 
-Emotion Identification and Speaker Age Classification in Speech
+# Emotion Identification and Speaker Age Classification in Speech
 I conducted a comprehensive study on emotion identification and speaker age classification given an audio sample using advanced speech and audio processing techniques. Emotion recognition, which involves automatically detecting and classifying a speaker's emotional state, and speaker age classification, which focuses on predicting the age group of a speaker based on their speech characteristics, are critical areas of research in the field of speech processing.
 
 Dataset
